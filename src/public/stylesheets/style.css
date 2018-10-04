@@ -1,0 +1,23 @@
+#audio-button {
+  font-size: 70px;
+  color: #f4f1ee;
+  background-color: #860606;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 6%;
+}
+
+#audio-button:hover {
+  background-color: #b00808;
+}
+
+#audio-button:focus {
+  background-color: #860606;
+}
+
+#audio-button:active {
+  background-color: #000000;
+}
